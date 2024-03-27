@@ -1,4 +1,4 @@
-# CodinGame Puzzle Solutions :puzzle_piece: :blue_heart:
+# CodinGame Puzzle Solutions :game_die: :blue_heart:
 
 ## Description
 
