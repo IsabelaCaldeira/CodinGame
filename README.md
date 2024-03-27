@@ -28,4 +28,4 @@ $ git push origin my-branch
 
 After your pull request is merged, you can delete your branch.
 
-If you a optimize version for the puzzle or in a new languague, feel free to send a merge requestion or to report an issue!!
+If you have an optimize version for some puzzle or in a new languague, feel free to send a merge request or to report an issue!!
